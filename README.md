@@ -1,5 +1,14 @@
-## Hi there 👋
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=omnivue)](https://github.com/IceEnd)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omnivue&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/omnivue/count.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=omnivue)
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <!--
 **omnivue/omnivue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
