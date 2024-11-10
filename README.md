@@ -13,7 +13,7 @@
 
 <!-- 动画 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="80" />
+  <img src="assets/wangzi.gif" height="200" width="200" />
 </p>
 
 <!-- 访客计数 -->
