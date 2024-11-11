@@ -25,7 +25,6 @@
 <h2 align="center">👨‍💻 关于我</h2>
 <p align="center">
   - 🌱 目前我在学习前端
-  
   - ⚡ 趣事："太好了,是omnivue.我们有救了!"
 </p>
 
