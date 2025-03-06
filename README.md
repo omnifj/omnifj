@@ -1,7 +1,7 @@
 <!-- 头部 -->
-<h1 align="center">你好，我是omnivue🦊</h1>
+<h1 align="center">你好，我是Code-rubik🦊</h1>
 <p align="center">
-  <a href="https://github.com/omnivue"><img src="https://github-immortality.vercel.app/api?username=omnivue" alt="IceEnd's GitHub stats" /></a>
+  <a href="https://github.com/Code-rubik"><img src="https://github-immortality.vercel.app/api?username=Code-rubik" alt="IceEnd's GitHub stats" /></a>
 </p>
 
 <!-- 技能标签 -->
@@ -18,28 +18,28 @@
 
 <!-- 访客计数 -->
 <p align="center">
-  <a href="https://profile-counter.glitch.me/omnivue/count.svg"><img src="https://profile-counter.glitch.me/omnivue/count.svg" alt="访客计数" /></a>
+  <a href="https://profile-counter.glitch.me/Code-rubik/count.svg"><img src="https://profile-counter.glitch.me/Code-rubik/count.svg" alt="访客计数" /></a>
 </p>
 
 <!-- 主要内容 -->
 <h2 align="center">👨‍💻 关于我</h2>
 <p align="center">
   - 🌱 目前我在学习前端
-  - ⚡ 趣事："太好了,是omnivue.我们有救了!"
+  - ⚡ 趣事："太好了,是Code-rubik.我们有救了!"
 </p>
 
 <!-- 语言排名 -->
 <h2 align="center">📊 最常用语言</h2>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=omnivue&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnivue&layout=compact&theme=tokyonight" alt="最常用语言" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-rubik&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-rubik&layout=compact&theme=tokyonight" alt="最常用语言" />
   </a>
 </p>
 
 <!-- 连续提交记录 -->
 <h2 align="center">🔥 连续提交记录</h2>
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=omnivue">
-    <img src="https://streak-stats.demolab.com/?user=omnivue" alt="连续提交记录" />
+  <a href="https://streak-stats.demolab.com/?user=Code-rubik">
+    <img src="https://streak-stats.demolab.com/?user=Code-rubik" alt="连续提交记录" />
   </a>
 </p>
