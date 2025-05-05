@@ -59,14 +59,14 @@
         <ul>
           <li>🌱 <strong>当前学习</strong>: 前端工程化 & 全栈开发</li>
           <li>💡 <strong>兴趣领域</strong>: Web3.0 & 可视化</li>
-          <li>📝 <strong>技术博客</strong>: <a href="#">个人博客链接</a></li>
+          <li>📝 <strong>技术博客</strong>: <a href="8io.cc">个人博客链接</a></li>
         </ul>
       </td>
       <td width="50%">
         <ul>
           <li>🎯 <strong>职业目标</strong>: 成为T型全栈开发者</li>
           <li>⚡ <strong>趣事</strong>: "代码如诗，逻辑如画"</li>
-          <li>📫 <strong>联系我</strong>: 543369008@qq.com</li>
+          <li>📫 <strong>联系我</strong>: omnivue666@gmail.com</li>
         </ul>
       </td>
     </tr>
