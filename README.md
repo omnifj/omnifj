@@ -1,6 +1,6 @@
 <!-- 动态分隔线 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
 </p>
 
 <!-- 个人展示图 -->
@@ -29,7 +29,7 @@
 
 <!-- 项目展示 -->
 <div align="center">
-  <img src="./assets/zzwy.jpg" width="400" alt="项目展示" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="./assets/zzwy.jpg" width="400" alt="omnivue" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 <!-- 增强版统计卡片 -->
@@ -80,5 +80,5 @@
 </div>
 <!-- 动态页脚 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 </p>
