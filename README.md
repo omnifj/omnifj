@@ -1,88 +1,84 @@
-<!-- 头部标题 -->
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  你好，我是 omnivue 🦊 
-</h1>
-
-<!-- 动态名言 -->
+<!-- 动态分隔线 -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机名言" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&animation=fadeIn" />
 </p>
 
-<!-- 插入 assets 下的图片 -->
-<p align="center">
-  <img src="./assets/hxfd.jpg" width="400" alt="omnivue" />
-</p>
+<!-- 个人展示图 -->
+<div align="center">
+  <img src="./assets/hxfd.jpg" width="400" alt="omnivue" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</div>
 
-<!-- 社交链接 -->
-<p align="center">
-  <a href="https://github.com/omnivue">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<!-- 3D社交链接卡片 -->
+<div align="center">
+  <a href="https://github.com/omnivue" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
-  <a href="#">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/个人网站-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" heighe="50">
-</p>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="50">
 
-<!-- 技能标签 -->
-<h2 align="center">🛠️ 技术栈 & 工具 🧰</h2>
-<p align="center">
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br/>
-  <!-- 后端/工具 -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=omnivue&label=Profile%20Views&color=0e75b6&style=flat" alt="omnivue" />
+</div>
 
-<p align="center">
-  <img src="./assets/zzwy.jpg" width="400" alt="omnivue" />
-</p>
+<!-- 动态技能云 -->
+<h2 align="center">✨ 技术栈 & 工具 🛠️</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,nodejs,nestjs,git,vscode&perline=6" alt="技术栈图标" />
+</div>
 
-<!-- GitHub 统计卡片 -->
-<h2 align="center">📊 GitHub 统计 📈</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omnivue&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnivue&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- 项目展示 -->
+<div align="center">
+  <img src="./assets/zzwy.jpg" width="400" alt="项目展示" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</div>
 
-<!-- 动态活动统计 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnivue&theme=tokyonight" alt="动态活动统计" />
-</p>
+<!-- 增强版统计卡片 -->
+<h2 align="center">📊 GitHub 数据全景 📈</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omnivue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnivue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-<!-- 连续提交记录 -->
-<h2 align="center">🔥 提交记录 🚀</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omnivue&theme=tokyonight&hide_border=true" alt="连续提交记录" />
-</p>
+<!-- 3D贡献图 -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnivue&theme=tokyonight" alt="3D贡献图" width="100%" />
+</div>
 
-<!-- 关于我 -->
-<h2 align="center">👨‍💻 关于我 🤔</h2>
-<p align="center">
-  - 🌱 目前在学习 <strong>前端开发</strong> 👨‍💻 和 <strong>React</strong> ⚛️<br>
-  - 🎯 目标：由前端开发工程师到成为一名全栈开发者 🚀<br>
-  - ⚡ 趣事：<em>"太好了，是 omnivue！我们有救了！" 🦸‍♂️</em><br>
-  - 💬 问我关于：前端开发、JavaScript、Vue/React 的问题 🤔<br>
-  - 📫 如何联系我：<a href="mailto:your-email@example.com">📧 发送邮件</a>
-</p>
+<!-- 动态提交记录 -->
+<h2 align="center">🔥 编码热情火焰图 🔥</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=omnivue&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="提交记录" />
+</div>
 
-<!-- 访客计数 -->
-<h2 align="center">👀 访客统计 👁️</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/omnivue/count.svg" alt="omnivue 的访客计数" />
-</p>
+<!-- 个人介绍卡片 -->
+<h2 align="center">👨‍💻 关于我 🎯</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li>🌱 <strong>当前学习</strong>: 前端工程化 & 全栈开发</li>
+          <li>💡 <strong>兴趣领域</strong>: Web3.0 & 可视化</li>
+          <li>📝 <strong>技术博客</strong>: <a href="#">个人博客链接</a></li>
+        </ul>
+      </td>
+      <td width="50%">
+        <ul>
+          <li>🎯 <strong>职业目标</strong>: 成为T型全栈开发者</li>
+          <li>⚡ <strong>趣事</strong>: "代码如诗，逻辑如画"</li>
+          <li>📫 <strong>联系我</strong>: 543369008@qq.com</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- 趣味统计 -->
+<!-- 动态名言 -->
+<h2 align="center">💡 今日开发者名言 ✨</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机名言" />
+</div>
+<!-- 动态页脚 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omnivue&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="活动图表" width="90%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn" />
 </p>
