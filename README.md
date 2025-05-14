@@ -13,7 +13,7 @@
   <a href="https://github.com/omnivue" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://8io.cc" target="_blank">
     <img src="https://img.shields.io/badge/个人网站-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="50">
@@ -53,7 +53,7 @@
         <ul>
           <li>🌱 <strong>当前学习</strong>: 前端工程化 & 全栈开发</li>
           <li>💡 <strong>兴趣领域</strong>: Web3.0 & 可视化</li>
-          <li>📝 <strong>技术博客</strong>: <a href="8io.cc">个人博客链接</a></li>
+          <li>📝 <strong>技术博客</strong>: <a href="https://8io.cc">个人博客链接</a></li>
         </ul>
       </td>
       <td width="50%">
