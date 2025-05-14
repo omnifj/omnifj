@@ -5,7 +5,7 @@
 
 <!-- 个人展示图 -->
 <div align="center">
-  <img src="./assets/hxfd.jpg" width="400" alt="omnivue" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="./welt1.jpg" width="400" alt="omnivue" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 <!-- 3D社交链接卡片 -->
@@ -26,12 +26,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,nodejs,nestjs,git,vscode&perline=6" alt="技术栈图标" />
 </div>
-
-<!-- 项目展示 -->
-<div align="center">
-  <img src="./assets/zzwy.jpg" width="400" alt="omnivue" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</div>
-
 <!-- 增强版统计卡片 -->
 <h2 align="center">📊 GitHub 数据全景 📈</h2>
 <div align="center">
