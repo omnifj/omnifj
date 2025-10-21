@@ -5,12 +5,12 @@
 
 <!-- 个人展示图 -->
 <div align="center">
-  <img src="./welt1.jpg" width="400" alt="omnif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="./welt1.jpg" width="400" alt="omnifj" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 <!-- 3D社交链接卡片 -->
 <div align="center">
-  <a href="https://github.com/omnif" target="_blank">
+  <a href="https://github.com/omnifj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" />
   </a>
   <a href="https://8io.cc" target="_blank">
@@ -18,7 +18,7 @@
   </a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" height="50">
 
-  <img src="https://komarev.com/ghpvc/?username=omnif&label=Profile%20Views&color=0e75b6&style=flat" alt="omnif" />
+  <img src="https://komarev.com/ghpvc/?username=omnifj&label=Profile%20Views&color=0e75b6&style=flat" alt="omnifj" />
 </div>
 
 <!-- 动态技能云 -->
@@ -29,19 +29,19 @@
 <!-- 增强版统计卡片 -->
 <h2 align="center">📊 GitHub 数据全景 📈</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omnif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omnifj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnifj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <!-- 3D贡献图 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnif&theme=tokyonight" alt="3D贡献图" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnifj&theme=tokyonight" alt="3D贡献图" width="100%" />
 </div>
 
 <!-- 动态提交记录 -->
 <h2 align="center">🔥 编码热情火焰图 🔥</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omnif&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="提交记录" />
+  <img src="https://streak-stats.demolab.com?user=omnifj&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="提交记录" />
 </div>
 
 <!-- 个人介绍卡片 -->
@@ -60,7 +60,7 @@
         <ul>
           <li>🎯 <strong>职业目标</strong>: 成为T型全栈开发者</li>
           <li>⚡ <strong>趣事</strong>: "代码如诗，逻辑如画"</li>
-          <li>📫 <strong>联系我</strong>: omnif666@gmail.com</li>
+          <li>📫 <strong>联系我</strong>: omnifj666@gmail.com</li>
         </ul>
       </td>
     </tr>
