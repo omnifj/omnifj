@@ -60,7 +60,7 @@
         <ul>
           <li>🎯 <strong>职业目标</strong>: 成为T型全栈开发者</li>
           <li>⚡ <strong>趣事</strong>: "代码如诗，逻辑如画"</li>
-          <li>📫 <strong>联系我</strong>: omnifj666@gmail.com</li>
+          <li>📫 <strong>联系我</strong>: omnivue666@gmail.com</li>
         </ul>
       </td>
     </tr>
